@@ -1,1 +1,1 @@
-Analysis of the spontaneous slow-have fluctuations of the resting membrane potentials. This script contains a function developed by Ashley Kees (https://www.researchgate.net/profile/Ashley_Kees) to automatically extract spiking occuring during UP states (more info here: https://www.biorxiv.org/content/10.1101/652461v3) Besides spontaneous spikings, it also analysis FFT and cumulative depolarization in a 30 sec. crop of the recording.
+Under Construction
