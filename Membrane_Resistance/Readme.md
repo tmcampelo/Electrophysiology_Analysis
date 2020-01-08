@@ -9,7 +9,7 @@
 Note: UP and DOWN states sweeps are defined accordingly to the distribution of Vm before whisker deflection (higher count correspond to the down state).
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/tmcampelo/Electrophysiology_Analysis/blob/master/Membrane_Resistance/Example_Figures/Histogram.png">
+  <img src="https://github.com/tmcampelo/Electrophysiology_Analysis/blob/master/Membrane_Resistance/Example_Figures/Rin_UpStatesRemoved5.jpg">
 </p>
 
 # UNDER CONSTRUCTION
