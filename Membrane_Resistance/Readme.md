@@ -3,7 +3,7 @@
 
 **Try the script on the example "Evoked_PSP.abf". A short description of the code is given below:**
 
-1) Define exponential function *(a*np.exp (b*x) + c)* used to extract membrane resistance;
+1) Define exponential function *(a x np.exp (b x y) + c)* used to extract membrane resistance;
 
 
 2) Import ".abf" file into python using the pyabf module;
