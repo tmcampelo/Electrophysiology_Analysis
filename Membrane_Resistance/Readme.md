@@ -10,7 +10,7 @@
 
 
 3) Sorting of DOWN state whisker-evoked PSPs. Membrane resistance is calculated exclusively from those traces.
-The cut-off UP/DOWN states is determined from the histogram distribution of the Vm. A higher count of Vm is expected to occur during the DOWN state (anaesthesia). The cut-off is the Vm where this count is max (bins[ID_hist_max]) + "5" (arbitrary value)  [Under optimization - Gaussian fitting would be prefered]
+The cut-off UP/DOWN states is determined from the histogram distribution of the Vm. A higher count of Vm is expected to occur during the DOWN state (anaesthesia). The cut-off is the Vm where this count is max (bins[ID_hist_max]) + "5" (arbitrary value)  *[Under optimization - Gaussian fitting would be prefered]*
 
 <p align="center">
   <img src="https://github.com/tmcampelo/Electrophysiology_Analysis/blob/master/Membrane_Resistance/Example_Figures/Rin_UpStatesRemoved5.jpg">
