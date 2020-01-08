@@ -27,7 +27,7 @@ a0, bap, c0 are the initial guesses calculated to each independent sweep.
 
 
 <p align="center">
-  <img src="https://github.com/tmcampelo/Electrophysiology_Analysis/blob/master/Membrane_Resistance/Example_Figures/Rin_UpStatesRemoved5.jpg">
+  <img src="https://github.com/tmcampelo/Electrophysiology_Analysis/blob/master/Membrane_Resistance/Example_Figures/Rin_Fitting.jpg">
 </p>
 
 
@@ -38,5 +38,5 @@ IMPORTANT: the Chi square of the exponential fitting can be used to keep the swe
 
 
 <p align="center">
-  <img src="https://github.com/tmcampelo/Electrophysiology_Analysis/blob/master/Membrane_Resistance/Example_Figures/Rin_UpStatesRemoved5.jpg">
+  <img src="https://github.com/tmcampelo/Electrophysiology_Analysis/blob/master/Membrane_Resistance/Example_Figures/Rin_Cvalue.jpg">
 </p>
