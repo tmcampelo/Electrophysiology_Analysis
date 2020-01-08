@@ -31,10 +31,13 @@ a0, bap, c0 are the initial guesses calculated to each independent sweep.
 </p>
 
 
+
 6) The fitting gives the "c value" (see exponential fitting) in mV. The membrane resistance can be then calculated accordingly to Ohm's law, where the Electric current (I) is derived from the "c value" accordingly to the gain of recording system.
 
 
+
 IMPORTANT: the Chi square of the exponential fitting can be used to keep the sweeps with appropriated fitting.
+
 
 
 <p align="center">
